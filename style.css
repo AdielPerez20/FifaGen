@@ -1,0 +1,40 @@
+main{
+    display: block;
+    width: 1300px;
+    height: 1000px;
+    background-image: url("images/FIFA18.jpg");
+    background-repeat: no-repeat;
+    margin: 0 auto;
+}
+#clicks{
+    width:150px;
+    height:150px;
+    margin: 0 auto;
+    padding-top: 200px;
+    
+}
+.button1{
+    display: block;
+    background-color: #4CAF50; /* Green */
+    border: black solid 3px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+    
+     
+}
+.button2{
+    display: block;
+    background-color:blue;
+    border: black solid 3px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
